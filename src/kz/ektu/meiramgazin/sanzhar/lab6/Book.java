@@ -1,6 +1,5 @@
 package kz.ektu.meiramgazin.sanzhar.lab6;
 import java.time.LocalDate;
-
 public class Book {
     private String isbn;
     private String title;

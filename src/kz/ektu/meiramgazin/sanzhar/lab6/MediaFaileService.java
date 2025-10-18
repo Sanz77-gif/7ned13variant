@@ -3,7 +3,6 @@ import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
 
-
 public interface MediaFaileService {
     boolean addMediaFile(MediaFile mediaFile) throws IllegalArgumentException;
     boolean updateFileVisibility(String fileId, boolean isPublic) throws Exception;

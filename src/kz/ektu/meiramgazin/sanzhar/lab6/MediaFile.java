@@ -1,7 +1,6 @@
 package kz.ektu.meiramgazin.sanzhar.lab6;
 import java.time.LocalDate;
 
-
 public class MediaFile {
     private String fileId;
     private String fileName;
