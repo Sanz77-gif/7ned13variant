@@ -1,5 +1,4 @@
 package kz.ektu.meiramgazin.sanzhar.lab6;
-
 import java.util.List;
 
 public interface BookService {
